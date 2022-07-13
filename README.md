@@ -22,5 +22,7 @@ input.xlsx의 Sheet3에는 반명과 듣는 과목을 입력합니다.
 https://drive.google.com/file/d/1TdmyHN6d2km7yQNfK8_RzBIy9CI9Oau7/view?usp=sharing
 
 이 소프트웨어는 무료로 누구나 사용할 수 있지만, 사용하시러 가져가실 때 댓글 한 번씩 남겨주시면 감사하겠습니다.
+https://github.com/shallowcoding/timetable/issues/new
+(참고: 오른쪽의 label을 documentation으로 설정해주세요.)
 
 이 소프트웨어를 상업적으로 사용하려는 경우 이 부분에 해당하는 코드 전체를 공개해야 합니다.
