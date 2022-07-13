@@ -18,6 +18,8 @@ input.xlsx의 Sheet2에는 과목명과 시수를 입력합니다.
 
 input.xlsx의 Sheet3에는 반명과 듣는 과목을 입력합니다.
 
+만족할 만한 결과가 나올 때까지 소프트웨어를 다시 실행시키면 새로운 결과가 나옵니다.
+
 링크에 들어가면 python을 설치하지 않고도 실행시킬 수 있는 소프트웨어를 다운받으실 수 있습니다.
 https://drive.google.com/file/d/1TdmyHN6d2km7yQNfK8_RzBIy9CI9Oau7/view?usp=sharing
 
